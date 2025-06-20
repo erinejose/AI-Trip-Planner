@@ -1,3 +1,19 @@
+                                   
+   AI TRIP PLANNER 
+
+- An AI Based web application that generates personalized travel itineraries using Gemini AI based on user inputs like no of days, destination, budget and other prefernces.
+- Frontend - React, Tailwind CSS
+- Backend - Firebase
+
+- Implemented authentication using React Google's OAuth 2.O.
+- Sign in details and history of user stord in Firebase Backend
+
+  Adding some snippets of the website:
+                           
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
