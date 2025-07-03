@@ -6,7 +6,7 @@
 - Backend - Firebase
 
 - Implemented authentication using React Google's OAuth 2.O.
-- Sign in details and history of user stord in Firebase Backend
+- Sign in details and history of user stored in Firebase Backend
 
   Adding some snippets of the website:
   
