@@ -1,7 +1,7 @@
                                    
    AI TRIP PLANNER 
 
-- An AI Based web application that generates personalized travel itineraries using Gemini AI based on user inputs like no of days, destination, budget and other prefernces.
+- An AI Based web application that generates personalized travel itineraries using Gemini AI based on user inputs like no of days, destination, budget and other preferences.
 - Frontend - React, Tailwind CSS
 - Backend - Firebase
 
