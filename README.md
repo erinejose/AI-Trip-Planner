@@ -11,7 +11,7 @@
   Adding some snippets of the website:
   
                            
-![Screenshot (371)](https://github.com/user-attachments/assets/4de98c4c-d2a1-4262-97af-917e112fa03f)
+
 <img width="1920" height="1080" alt="AI Travel Planner" src="https://github.com/user-attachments/assets/ee491755-dad8-46c9-9028-122dde68e6c3" />
 
 
