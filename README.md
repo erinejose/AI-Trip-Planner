@@ -16,6 +16,8 @@
 
 
 ![Screenshot (369)](https://github.com/user-attachments/assets/7255a00b-38c0-44ad-a2e2-2a5f3b6302f1)
+<img width="1920" height="1080" alt="Screenshot (523)" src="https://github.com/user-attachments/assets/e467cc35-f762-4549-9cab-15713949c4e5" />
+
 
 
 
