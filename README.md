@@ -21,7 +21,6 @@
 
 
 
-![Screenshot (370)](https://github.com/user-attachments/assets/ab799714-12a2-4537-85a6-8fa0140baba5)
 
 
 
