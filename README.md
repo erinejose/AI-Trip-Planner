@@ -12,6 +12,8 @@
   
                            
 ![Screenshot (371)](https://github.com/user-attachments/assets/4de98c4c-d2a1-4262-97af-917e112fa03f)
+<img width="1920" height="1080" alt="AI Travel Planner" src="https://github.com/user-attachments/assets/ee491755-dad8-46c9-9028-122dde68e6c3" />
+
 
 ![Screenshot (369)](https://github.com/user-attachments/assets/7255a00b-38c0-44ad-a2e2-2a5f3b6302f1)
 
