@@ -23,3 +23,4 @@ function App() {
 }
 
 export default App
+/* npm run dev to run in dev mode*/
