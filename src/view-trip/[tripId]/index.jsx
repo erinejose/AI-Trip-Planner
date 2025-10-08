@@ -5,6 +5,7 @@ import { db } from "../../service/FirebaseConfig.jsx";
 import { toast } from "react-toastify";
 import Infosection from "@/components/custom/Infosection.jsx";
 import Hotels from "@/components/custom/Hotels.jsx";
+import PlacestoVisit from "@/components/custom/PlacestoVisit.jsx";
 
 function ViewTrip() {
   const { tripId } = useParams();
@@ -28,16 +29,19 @@ function ViewTrip() {
   };
 
   return (
-    <div className="p-10 md:px-20 lg:px-44 xl:px-56">
-      {/* information section */}
-      <Infosection trip={trip}/>
+    <div className="min-h-screen bg-slate-900 pt-24">
+      <div className="container mx-auto px-6 py-8 max-w-6xl">
+        {/* information section */}
+        <Infosection trip={trip}/>
 
-      {/* recommended hotels */}
-      <Hotels trip={trip}/>
+        {/* recommended hotels */}
+        <Hotels trip={trip}/>
 
-      {/* daily plan */}
+        {/* daily plan */}
+        <PlacestoVisit trip={trip}/>
 
-      {/* footer */}
+        {/* footer */}
+      </div>
     </div>
   );
 }
